@@ -2,11 +2,6 @@
 
 This is a simple e-commerce application built with React Native that allows users to view products
 
-## Screenshoot
-[<img src="screenshoot/home.png" width="200"/>](home.png)
-[<img src="screenshoot/home-filter.png" width="200"/>](home-filter.png)
-[<img src="screenshoot/detail-product.png" width="200"/>](detail-product.png)
-
 ## Features
 
 - **Product Listing**
